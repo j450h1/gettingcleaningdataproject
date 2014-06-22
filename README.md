@@ -2,7 +2,7 @@ gettingcleaningdataproject
 ==========================
 
 Getting and Cleaning Data Project
-*This repo explains how all of the scripts work and how they are connected.* 
+*This file explains how all of the scripts work and how they are connected.* 
 
 1. First I downloaded and unzipped files to the current working directory without using R.
 
