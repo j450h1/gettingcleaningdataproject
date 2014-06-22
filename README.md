@@ -20,3 +20,6 @@ Since the names were sufficient, I didn't feel the need to using a seperate nami
 
 7. I know imported the features.txt file as read.table to replace the remaining incomperehensible column headings.
 
+8. At this stage, I had a complete data set called total that would be considered tidy.
+
+
