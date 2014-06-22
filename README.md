@@ -20,4 +20,6 @@ Since the names were sufficient, I didn't feel the need to using a seperate nami
 
 8. At this stage, I had a complete data set called total that would be considered tidy.
 
+SEE CodeBook.MD for further discussion on the transformations that were done on this complete dataset to get to the final dataset.
+
 
