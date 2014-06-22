@@ -3,10 +3,9 @@ gettingcleaningdataproject
 
 *This file explains how all of the scripts work and how they are connected.* 
 
-1. First I downloaded and unzipped files to the current working directory without using R.
+1. First I downloaded and unzipped all files to the current working directory without using R and wihout changing the file structure.
 
-2. I read in all 6 text files using read.table. I only selected the X,Y, and subject of each folder train and test.
-Ignoring the Inertial Signals folder.
+2. I read in all 6 text files using read.table. I only selected the X,Y, and subject files within each folder train and test. Ignoring the Inertial Signals folder.
 
 3. I first combined the columns of each set seperately using the cbind function.
 
